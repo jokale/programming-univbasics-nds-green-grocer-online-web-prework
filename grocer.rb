@@ -1,6 +1,6 @@
 def find_item_by_name_in_collection(name, collection)
   # Implement me first!
-  #
+  {:item => "AVOCADO", :price => 3.00, :clearance => true}
   # Consult README for inputs and outputs
 end
 
